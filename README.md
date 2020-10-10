@@ -3,7 +3,7 @@ demo
 
 *******************************************************
 
-First project for testing.
+First project for testing purpose.
 
 *******************************************************
 
